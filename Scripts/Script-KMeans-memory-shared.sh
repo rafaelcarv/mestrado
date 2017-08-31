@@ -7,8 +7,8 @@ SPARK_SBIN=$SPARK/sbin/
 SPARK_BIN=$SPARK/bin/
 
 iterations=$1
-cores=$2
-centers=$3
+centers=$2
+cores=$3
 
 iteration_output_file=$HOME/iteration_output_file
 single_execution_output_file=$HOME/single_execution_output_file
