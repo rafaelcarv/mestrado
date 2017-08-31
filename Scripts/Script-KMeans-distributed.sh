@@ -2,7 +2,7 @@
 
 HPAT_EXAMPLE=$HOME/.julia/v0.5/HPAT/examples
 HPAT_GENERATE=$HOME/.julia/v0.5/HPAT/generate_data/
-SPARK=$HOME/spark-2.0.2-bin-hadoop2.7
+SPARK=$HOME/spark-2.0.1-bin-hadoop2.7
 SPARK_SBIN=$SPARK/sbin/
 SPARK_BIN=$SPARK/bin/
 
